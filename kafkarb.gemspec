@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Kafkarb::VERSION
   spec.authors       = ["Simon Eskildsen"]
   spec.email         = ["sirup@sirupsen.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Ruby kafka client}
+  spec.description   = %q{Fork from https://github.com/Sirupsen/kafka}
   spec.homepage      = ""
   spec.license       = "MIT"
 
